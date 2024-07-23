@@ -1,0 +1,37 @@
+# MERN STACK BLOG WEBSITE 
+
+# LOGIN PAGE/SIGNUP PAGE
+##### JWT AUTHENTICATION TOKEN IS USED TO LOGIN IN AND SIGNUP USERS.
+![Login](/images/login.png)
+![Signup](/images/signup.png)
+
+# HOME PAGE
+##### ALL BLOGS CAN BE VIEWED ACCORING TO CATEGORY ON HOME PAGE.
+![All](/images/home.png)
+
+##### USERS CAN VIEW A BLOG WITH SPECIFIC CATEGORY.
+![Cat](/images/cat.png)
+
+# CREATE BLOG PAGE
+##### USERS CAN CREATE A BLOG WITH IMAGE ,TITLE AND DESCRIPTION. 
+![Create](/images/create.png)
+
+# EDIT BLOG PAGE
+##### USERS CAN EDIT THEIR CREATED BLOGS USING EDIT, DELETE ICON.
+![Edit](/images/edit.png)
+
+# COMMENTS SECTION
+##### USERS CAN ADD AND DELETE THEIR VIEW IN COMMENT SECTIONS . 
+![Edit](/images/com.png)
+
+# EDIT ACCESS   
+##### USERS DO NOT HAVE EDIT ACCESS TO OTHER USERS POST. 
+![Edit](/images/no.png)
+
+
+
+
+
+
+
+
